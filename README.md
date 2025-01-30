@@ -1,8 +1,5 @@
-# Forage-PwC-Data-Analysis-Virtual-Internship
+# Forage-PWC-Data-Analysis-Virtual-Internship
 
-
-
-# </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="30" height="30"> PWC PowerBI Virtual Case Experience 
 
 <br>
 
@@ -11,13 +8,11 @@ This repository displays the process and outcomes of the tasks completed during 
 
 All of these .pbix files and insights were my submissions for this program, except for the data files which were assigned by PwC Switzerland.
 
-
 <br>
 
 ## :pushpin: Scenario
 At PwC, we work with global organizations, upskilling our 276,000 employees. Our goal is to provide everyone with the opportunity to learn, work, and participate in the digital world. Our employees have the chance to become "Digital Accelerators" by rapidly deepening their skills in digital specialties such as data, automation, AI, and digital storytelling. They do this by learning self-service tools and coding languages and applying these skills across our business.
 Your manager, Giulia, will guide you through your upskilling journey in PowerBI. You'll become a data Jedi and Digital Accelerator. An important client (communication has already reached out to you for help visualizing their data.
-
 
 
 This virtual experience program consists of 3 tasks:                    
