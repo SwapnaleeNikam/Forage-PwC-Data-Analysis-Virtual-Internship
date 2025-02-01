@@ -14,12 +14,28 @@ Your manager, Giulia, will guide you through your upskilling journey in PowerBI.
 
 
 This virtual experience program consists of 3 tasks:                    
-- [**Task 1**](https://github.com/SwapnaleeNikam/Forage-PwC-Data-Analysis-Virtual-Internship/blob/main/PWC%20Churn%20Analysis%20Dashboard.pbix): Create Call Centre Dashboard - visualizing customer and agent behavior.
+- [**Task 1**](): Create Call Centre Dashboard - visualizing customer and agent behavior.
 - [**Task 2**](https://github.com/SwapnaleeNikam/Forage-PwC-Data-Analysis-Virtual-Internship/blob/main/PWC%20Churn%20Analysis%20Dashboard.pbix): Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
 - [**Task 3**](https://github.com/SwapnaleeNikam/Forage-PwC-Data-Analysis-Virtual-Internship/blob/main/Diversity%20And%20Inclusion%20Dashboard.pbix): Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
 
 <br>
 
+## Insights:
+ 
+1. **Call Center Trends**: Analyzed 5,000 calls, identifying a 19% abandonment rate and a 3.4/5 customer satisfaction score. Suggested improving resolution rates, optimizing staffing, and reducing wait times.  
+
+2. **Customer Retention**: Found a 26.54% churn rate among 7,043 customers. Recommended customer engagement strategies, workforce diversity improvements, and enhanced feedback mechanisms to boost retention.  
+
+3. **Diversity & Inclusion**: Identified gender disparities in promotions, job security, and performance ratings. Recommended unbiased performance evaluations, equal promotion opportunities, and retention strategies.  
+
+4. **Power BI Expertise**: Designed interactive dashboards for all three projects, using DAX and data visualization to extract actionable insights.  
+
+5. **Data Cleaning & EDA**: Ensured data integrity through thorough cleaning and exploratory analysis, leading to meaningful business recommendations.  
+
+6. **Real-World Business Impact**: Gained hands-on experience in analyzing operational data and deriving insights to improve efficiency, customer experience, and workplace inclusivity.
+
+ <br>
+ 
 ## :gear: Technical Stack
 
 - Microsoft Excel
